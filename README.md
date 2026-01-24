@@ -4,11 +4,12 @@ My name is Vladimir. I am TeamLead and Fullstack developer.
 
 ## 🔭 I’m currently working
 
-[Yourgood.Sendbot](https://sendbot.yourgood.app/)
+I am actively looking for a **Team Lead / Senior Fullstack Developer** position. Open to interesting projects and ambitious teams.
 
 ## 🌱 I’m currently learning
 
-- [ ] [Software architecture](https://practicum.yandex.ru/software-architect)
+- [x] [Software architecture](https://practicum.yandex.ru/software-architect)
+- [ ] [Microservice architecture](https://practicum.yandex.ru/microservice-architecture/)
 
 ## 📖 I’m currently reading
 
@@ -26,3 +27,5 @@ My name is Vladimir. I am TeamLead and Fullstack developer.
 - [Docker](https://www.docker.com/)
 - [VueJS](https://vuejs.org/)
 - [Nuxt](https://nuxt.com/)
+- [Clickhouse](https://clickhouse.com/)
+- [PostgreSQL](https://www.postgresql.org/)
