@@ -9,7 +9,7 @@ I am actively looking for a **Team Lead / Senior Fullstack Developer** position.
 ## 🌱 I’m currently learning
 
 - [x] [Software architecture](https://practicum.yandex.ru/software-architect)
-- [ ] [Microservice architecture](https://practicum.yandex.ru/microservice-architecture/)
+- [x] [Microservice architecture](https://practicum.yandex.ru/microservice-architecture/)
 
 ## 📖 I’m currently reading
 
@@ -29,3 +29,4 @@ I am actively looking for a **Team Lead / Senior Fullstack Developer** position.
 - [Nuxt](https://nuxt.com/)
 - [Clickhouse](https://clickhouse.com/)
 - [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
